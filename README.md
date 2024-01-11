@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arvin-duh
-- 👀 I’m interested in finding the most roundabout method to solve problems.
+- 👀 I’m interested in finding the most roundabout method to solve easy problems.
 - 🌱 I’m currently learning Scikit Learn and PyTorch
 - 💞️ I’m looking to collaborate on anything thats fun!
 - 📫 How to reach me: email
